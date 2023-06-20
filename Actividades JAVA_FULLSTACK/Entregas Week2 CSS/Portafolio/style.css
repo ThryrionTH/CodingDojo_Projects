@@ -1,0 +1,137 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#main_container {
+    background-color: #f5f5f5;
+}
+
+#title_1 {
+    width: 775px;
+    font-family: 'Kalam', cursive;
+}
+
+#title_2 {
+    font-family: sans-serif;
+}
+
+.header {
+    margin: 10px;
+    display: inline-block;
+}
+
+.size_cont {
+    width: 1180px;
+}
+
+#content {
+    background: radial-gradient(circle, #755E6B 0%, rgb(31, 15, 19, 1) 100%);
+}
+
+.color_fond {
+    background: linear-gradient(to right, #fcfafc, #ddcfdc);
+}
+
+#about {
+    margin: 25px 5px 20px;
+    height: 260px;
+    width: 685px;
+}
+
+#image {
+    margin: 25px;
+    height: 250px;
+    width: 400px;
+    border: 5px solid #c0c0c0;
+    vertical-align: center;
+}
+
+.img_about {
+    vertical-align: top;
+    display: inline-block;
+}
+
+.font_text {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text {
+    padding: 10px 10px 0px;
+    text-align: justify;
+}
+
+.text_thre {
+    padding: 10px;
+    height: 150px;
+}
+
+.title_color {
+    min-height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(#a9a9af, #878593, #a9a9af);
+    color: white;
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+#subsection {
+    margin: 15px;
+    height: 730px;
+}
+
+.three_sub {
+    margin: 0px 12px 12px;
+    height: 700px;
+    width: 355px;
+    vertical-align: top;
+    display: inline-block;
+    background-color: #ede6ed;
+}
+
+.img_prin {
+    height: 250px;
+    width: 355px;
+}
+
+.icons_align {
+    margin: 8px 15px;
+}
+
+.icons {
+    margin: 3px;
+    height: 55px;
+    width: 55px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.centre_but {
+    text-align: center;
+}
+
+.button {
+    margin-bottom: 30px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #2e8b57;
+    color: white;
+}
+
+.foot_page {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.icons_ref {
+    height: 15px;
+    width: 15px;
+}
+
+.link_ref {
+    text-decoration: none;
+    display: inline-block;
+}

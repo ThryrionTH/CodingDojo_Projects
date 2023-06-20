@@ -1,0 +1,165 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#main_content {
+    height: 800px;
+    width: 970px;
+    background-color: #245076;
+}
+
+#img_content {
+    height: 130px;
+    width: 600px;
+    display: inline-block;
+}
+
+#img_py {
+    height: 100px;
+    width: 350px;
+}
+
+.text_header {
+    text-align: right;
+}
+
+#box_search {
+    margin-top: 8px;
+    padding-top: 15px;
+    height: 60px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px black;
+    background-color: #444444;
+}
+
+#search {
+    height: 45px;
+    width: 175px;
+    border: 2px;
+    border-style: inset;
+    text-align: center;
+}   
+
+#button {
+    margin-bottom: 60px;
+    padding: 5px;
+    height: 35px;
+    width: 45px;
+    border-radius: 5px;
+    border-color: white;
+    background-color: #245076;
+}
+
+.type_text {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.x_large{ 
+    font-size: x-large;
+}
+
+.color_text {
+    color: white;
+}
+
+.color_yellow {
+    color: #e2c239
+}
+
+.header_align {
+    margin: 8px;
+    height: 100px;
+    width: 290px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+
+.nav {
+    margin: 5px 0px 0px 80px;
+    padding-top: 5px;
+    height: 50px;
+    width: 800px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px black;
+    text-align: center;
+    text-decoration: none;
+    background-color: #487fad;
+}
+
+.size_nav {
+    margin: 7px;
+    display: inline-block;
+}
+
+#menu {
+    margin-top: 25px;
+    margin-left: 75px;
+    height: 200px;
+    width: 175px;
+    display: inline-block;
+    text-align: center;
+    color: #f3cc34;
+}
+
+#content {
+    margin: 20px;
+    height: 250px;
+    width: 650px;
+    display: inline-block;
+    text-align: center;
+}
+
+.text_kursive {
+    font-style: oblique;
+}
+
+.align_middle {
+    vertical-align: top;
+} 
+
+.size_text_large {
+    font-size: large;
+}
+
+.middle_content {
+    height: 260px;
+    width: 970px;
+    background-color: #ffffff;
+}
+
+.border_blue {
+    margin-left: 50px;
+    height: 8px;
+    width: 400px;
+    display: inline-block;
+    background-color: #73a7d5;
+}
+
+.sub_contents {
+    margin: 0px 60px;
+    height: 250px;
+    width: 350px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+
+.text_blue {
+    color: #84b2da;
+}
+
+#foot_page {
+    height: 150px;
+    width: 970px;
+    text-align: center;
+    background: linear-gradient(#26557e, #3170a6);
+}
+
+.list_foot {
+    text-decoration: none;
+    margin-top: 25px;
+    padding: 25px;
+    display: inline-block;
+}
